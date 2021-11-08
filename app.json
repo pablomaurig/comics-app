@@ -3,6 +3,7 @@
     "name": "navigation-data",
     "slug": "navigation-data",
     "version": "1.0.0",
+    "scheme": "comicsapp",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "splash": {
